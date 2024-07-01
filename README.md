@@ -4,7 +4,7 @@
 Мне нравится создавать красивые и интуитивно понятные интерфейсы,
 а также решать сложные задачи, используя передовые технологии.
 
-#### [Моя самопрезентация](https://drive.google.com/file/d/1tnZ92hUBHMFMdt0BfXgeZsQQTcueZPSJ/view?usp=share_link)
+### [Моя самопрезентация](https://drive.google.com/file/d/1tnZ92hUBHMFMdt0BfXgeZsQQTcueZPSJ/view?usp=share_link)
 
 ---
 
@@ -85,7 +85,7 @@ _(Октябрь 2019 — октябрь 2023)_
 
 ### Хобби
 
-#### В свободное время я занимаюсь созданием видео на YouTube о своих хобби. [Посмотрите мои видео здесь](https://www.youtube.com/@proArs13)
+- В свободное время я занимаюсь созданием видео на YouTube о своих хобби. [Посмотрите мои видео здесь](https://www.youtube.com/@proArs13)
 
 ---
 
