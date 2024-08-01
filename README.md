@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
+    <img src="https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=bem&logoColor=white" alt="BEM" height="40">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="40">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="40">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="40">
@@ -28,6 +30,7 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="40">
     <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" height="40">
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="40">
+
   </div>
 
 ---
@@ -38,7 +41,11 @@
 
 _(Ноябрь 2023 — по настоящее время)_
 
+### Проекты для себя.
+- **Стек:** HTML, БЭМ методология, Sass на диалекте SCSS, немного JS.
+- [**Репозиторий**](https://github.com/Antikab/TVuser)----[**-->Посмотреть проект**](https://t-vuser.vercel.app/)
 
+### Проекты для компании.
 #### Разработка библиотеки стилей с возможностью поиска, добавления, удаления и загрузки изображений стилей.
 
 - **Стек:** Next.js, Tailwind CSS, Prisma, PostgreSQL.
