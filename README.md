@@ -14,11 +14,17 @@ Frontend Developer (Vue 3 + TypeScript) с опытом Node.js и PostgreSQL/Po
 
 ## Публичные проекты
 
-- **Brix Form** — многошаговая форма  
-  Demo: https://brix-form.vercel.app · Repo: https://github.com/Antikab/brix-form
+- **GeoServer Styles** — интерфейс библиотеки стилей GeoServer <br>
+  Стек: **Next.js, React, Prisma, Supabase, TailwindCSS** <br>
+  [Demo](https://geostyle-dun.vercel.app) | [Repo](https://github.com/Antikab/geostyle)
+  
+- **Brix Form** — многошаговая форма для сбора данных и оценки проекта <br>
+  Стек: **Vue 3, TailwindCSS** <br>
+  [Demo](https://brix-form.vercel.app) | [Repo](https://github.com/Antikab/brix-form)
 
-- **Weather Widget** — Vue 3 виджет погоды  
-  Demo: https://widgetweather.vercel.app · Repo: https://github.com/Antikab/weather
+- **Weather Widget** — Vue 3 виджет погоды с динамическим фоном <br>
+  Стек: **Vue 3, TailwindCSS, OpenWeatherMap API** <br>
+  [Demo](https://widgetweather.vercel.app) | [Repo](https://github.com/Antikab/weather)
 
 ## Опыт
 
