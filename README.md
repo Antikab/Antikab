@@ -31,6 +31,14 @@
 - Картограммы OpenLayers, интерактивная легенда, сравнение периодов и обработка неполных данных.
 - Express API, PostgreSQL/PostGIS, unit-тесты и автоматический деплой.
 
+### ГлавАПУ Stat
+
+Внутренний сервис, объединяющий выбор территории, пространственные расчёты, дашборды и Excel-отчёты.
+
+- Vue 3, TypeScript и OpenLayers: выбор районов, рисование областей, импорт и экспорт GeoJSON.
+- WMS/WFS-слои GeoServer, маршруты и изохроны OpenRouteService, визуализация показателей в ECharts.
+- Express API, агрегации в PostGIS и формирование Excel-отчётов по шаблонам через ExcelJS.
+
 ### VectorGIS Loader
 
 ETL-сервис для потоковой обработки GeoJSON объёмом более 8 ГБ и 3 млн объектов.
@@ -42,8 +50,10 @@ ETL-сервис для потоковой обработки GeoJSON объём
 ## Публичные проекты
 
 - [Resume](https://github.com/Antikab/resume) — резюме как Vue-приложение с общей моделью данных и экспортом в HTML, TXT и PDF. [Открыть](https://resume-proars.vercel.app)
-- [GeoServer Styles](https://github.com/Antikab/geostyle) — библиотека стилей GeoServer с поиском, фильтрами, пагинацией и историей обновлений. [Demo](https://geostyle.vercel.app)
+- [ArchTown Platform](https://archtown.org) — контентная платформа на Nuxt 3 / Vue 3 с публикациями, видео, комментариями и подписками.
+- [GeoServer Styles](https://github.com/Antikab/geostyle) — библиотека стилей GeoServer с поиском, фильтрами, пагинацией и историей обновлений. [Demo](https://geostyle-dun.vercel.app)
 - [Brix Form](https://github.com/Antikab/brix-form) — многошаговая Vue-форма с валидацией и сохранением прогресса. [Demo](https://brix-form.vercel.app)
+- [Weather Widget](https://github.com/Antikab/weather) — погодный виджет на Vue 3 с динамическим фоном и автоопределением локации. [Demo](https://widgetweather.vercel.app)
 
 ## Опыт
 
@@ -53,10 +63,14 @@ ETL-сервис для потоковой обработки GeoJSON объём
 
 ## Технологии
 
-**Frontend:** Vue 3, TypeScript, Nuxt 3, Pinia, Vite, Tailwind CSS
+**Frontend:** Vue 3, Composition API, TypeScript, JavaScript, Nuxt 3, Pinia, Vue Router, Vite, Tailwind CSS
+
+**Архитектура и интеграции:** SPA, REST API, DTO / domain / view models, Zod, AbortController, WebSocket / Socket.IO
 
 **Карты и визуализация:** MapLibre GL, OpenLayers, ECharts, GeoJSON, GeoServer
 
-**Backend и данные:** Node.js, NestJS, Express, PostgreSQL, PostGIS, MinIO, Socket.IO
+**Backend и данные:** Node.js, NestJS, Express, PostgreSQL, SQL, PostGIS, MinIO, ExcelJS
 
-**Качество и инфраструктура:** Zod, Vitest, Jest, GitHub Actions, Nginx, PM2
+**Качество и инфраструктура:** Vitest, Jest, Git, GitHub Actions, CI/CD, ESLint, Prettier, Nginx, PM2
+
+**Дополнительный опыт:** React, Next.js, Prisma, Strapi, Figma
